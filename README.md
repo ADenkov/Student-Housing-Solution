@@ -1,2 +1,2 @@
 # Student-Housing-Solution
-Desktop application with three GUIs based on C# and a MySQL DB
+Desktop application for student accommodation managing with three GUIs based on C# and a MySQL DB
